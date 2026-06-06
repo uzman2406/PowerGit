@@ -81,6 +81,9 @@ The ETL pipeline generates the following datasets:
 
 ### 1. Repository Overview
 
+<img width="608" height="329" alt="Screenshot 2026-06-06 215023" src="https://github.com/user-attachments/assets/7f0f8d86-852d-45ff-8e22-534a74f8b47b" />
+
+
 Provides a high-level summary of repository health and activity.
 
 **Key Metrics**
@@ -93,6 +96,8 @@ Provides a high-level summary of repository health and activity.
 
 
 ### 2. Contributor Analytics
+
+<img width="614" height="336" alt="Screenshot 2026-06-06 215034" src="https://github.com/user-attachments/assets/bd6d43d6-41fa-4d43-9c37-5ca02c2b2e01" />
 
 Analyzes contributor behavior and repository participation.
 
@@ -113,6 +118,8 @@ Analyzes contributor behavior and repository participation.
 ---
 
 ### 3. PR & Issue Intelligence
+
+<img width="609" height="324" alt="Screenshot 2026-06-06 215100" src="https://github.com/user-attachments/assets/1ffaf585-da78-416d-a78e-f8f3479d3eef" />
 
 Provides workflow and maintenance analytics.
 
