@@ -2,7 +2,7 @@
 
 A dynamic GitHub analytics dashboard built using Python, GitHub REST API, pandas, postgresql and Power BI .
 
-GitLytics transforms raw GitHub repository data into meaningful engineering and collaboration insights through automated data extraction, transformation, and interactive business intelligence dashboards.
+PowerGit transforms raw GitHub repository data into meaningful engineering and collaboration insights through automated data extraction, transformation, and interactive business intelligence dashboards.
 
 ---
 
